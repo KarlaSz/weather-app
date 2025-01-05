@@ -2,6 +2,8 @@
 
 This project is a Python-based weather application that fetches and displays real-time weather data from the [IMGW Public API](https://danepubliczne.imgw.pl/api/data/synop/). The application allows users to view the temperature and measurement time for selected cities in a clean and user-friendly terminal table format.
 
+![Screenshot_3](https://github.com/user-attachments/assets/d58ea3e0-2359-4389-8f53-cebc65a427e8)
+
 ## Features
 - Retrieves real-time weather data from IMGW's synoptic data API.
 - Displays weather information for selected cities in a structured ASCII table.
